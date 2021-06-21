@@ -1,0 +1,4 @@
+犬・いぬ====separator====Dog
+猫・ねこ====separator====Cat
+家族・かぞく====separator====Family
+馬鹿・ばか====separator====Baka
